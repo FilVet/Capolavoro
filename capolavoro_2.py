@@ -3,7 +3,7 @@ from turtle import Vec2D
 from math import tan, radians, sqrt
 from progress_bar import show_progress_bar
 # Costanti
-ITERATION = 15
+ITERATION = 17
 LENGTH = 1
 MODIFIER = sqrt(2)
 REAL_LENGTH = None
